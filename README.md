@@ -2,7 +2,7 @@
 
 **Software Developer | Full Stack Specialist | Cloud Enthusiast**
 
-📍 Windsor, ON, Canada  
+📍 Toronto, ON, Canada  
 ✉️ nikunjsp2212@gmail.com | 📞 +1 (226) 961-6127 | [LinkedIn](https://www.linkedin.com/in/nikunj-pansuriya-040790197/)
 
 ---
