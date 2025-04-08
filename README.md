@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-A highly motivated and results-oriented Full Stack Developer with 2+ years of experience building scalable, robust, and user-centric applications. Proven expertise in backend engineering, API design, cloud infrastructure (AWS), and DevOps practices. Passionate about leveraging technology to create impactful solutions and thrive in collaborative, agile environments.  I enjoy tackling complex challenges and continuously expanding my skillset in areas like AI/ML and distributed systems.  Eager to contribute to innovative projects and deliver high-quality software that exceeds expectations.
+A highly motivated and results-oriented Full Stack Developer with experience in building scalable, robust, and user-centric applications. Proven expertise in backend engineering, API design, cloud infrastructure (AWS), and DevOps practices. Passionate about leveraging technology to create impactful solutions and thrive in collaborative, agile environments.  I enjoy tackling complex challenges and continuously expanding my skillset in areas like AI/ML and distributed systems.  Eager to contribute to innovative projects and deliver high-quality software that exceeds expectations.
 
 ---
 
